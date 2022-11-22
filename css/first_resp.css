@@ -1,0 +1,35 @@
+@media (max-width: 991.98px) {
+  .mrr {
+    margin-right: 0px;
+  }
+  .mll {
+    margin-left: 0px;
+  }
+  .show {
+    visibility: visible;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .hide {
+    visibility: hidden;
+    height: 0;
+  }
+  .bottom-right {
+    position: absolute;
+    bottom: -5px;
+    right: 15px;
+  }
+  .top {
+    display: flex;
+    flex-direction: column;
+    font-size: 0.59rem;
+    visibility: hidden;
+  }
+  .centered1{
+    padding-top: 150px;
+  }
+  .card-first{
+    margin-top: -100px;
+  }
+}
