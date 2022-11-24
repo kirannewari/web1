@@ -1,9 +1,15 @@
 @media (max-width: 991.98px) {
+  .ma_le{
+    margin-left: 0px;
+    }
   .mrr {
-    margin-right: 0px;
+    margin-right: -0px;
   }
   .mll {
     margin-left: 0px;
+  }
+  .mrr2{
+    margin-right: -120px;
   }
   .show {
     visibility: visible;
@@ -29,7 +35,15 @@
   .centered1{
     padding-top: 150px;
   }
+  .form-control{
+    border-radius: 0;
+    width: 150px;
+  }
   .card-first{
     margin-top: -100px;
+  }
+  .tb{
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
 }
