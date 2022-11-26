@@ -326,7 +326,7 @@ body {
     z-index: 1;
     top: 0px !important;
     padding: 0;
-    background-color: orangered;
+    background-color: rgb(210, 61, 7);
 }
 .myH2 {
 	text-align:center;
