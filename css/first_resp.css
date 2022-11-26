@@ -11,6 +11,9 @@
   .mrr2{
     margin-right: -120px;
   }
+  .frr{
+    float: left;
+  }
   .show {
     visibility: visible;
     height: 100%;
@@ -37,7 +40,7 @@
   }
   .form-control{
     border-radius: 0;
-    width: 150px;
+    width: 100%;
   }
   .card-first{
     margin-top: -100px;
@@ -45,5 +48,9 @@
   .tb{
     margin-top: 10px;
     margin-bottom: 10px;
+  }
+  .tb2{
+    margin-top: 50px;
+    margin-bottom: 50px;
   }
 }

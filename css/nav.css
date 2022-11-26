@@ -51,16 +51,18 @@ body {
     height: 65px;
     padding: 0;
     padding-right: 3rem;
+    font-weight: 600;
 }
 .nav div.main_list ul li a {
     text-decoration: none;
     color: #fff;
     line-height: 65px;
     font-size: 1.0rem;
+    transition: 0.5sec;
 }
 .nav div.main_list ul li a:hover {
-    color: #00E676;
-    border-bottom: 1px solid  #00E676;
+    color: #080808;
+    border-bottom: 1px solid  #111211;
 }
 /* Home section */
 
@@ -324,7 +326,7 @@ body {
     z-index: 1;
     top: 0px !important;
     padding: 0;
-    background-color: #111;
+    background-color: orangered;
 }
 .myH2 {
 	text-align:center;
