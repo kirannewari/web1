@@ -195,7 +195,8 @@ border-radius: 5px;
   height: 150px;
 }
 .bg-img2 {
-  background-image: url(../img/h3.jpeg);
+  background-image: url(../img/h6.jpeg);
+  width: 100%;
   position: relative;
   color: rgb(21, 20, 20);
   background-size: cover;
