@@ -87,7 +87,11 @@ margin-left: 150px;
   margin-right: -50px;
 }
 .mll {
-  margin-left: 400px;
+  margin-left: 350px;
+}
+.mlr{
+  margin-left: 10px;
+  margin-right: 10px;
 }
 .bbo{
   font-size: 20px;
@@ -182,6 +186,9 @@ border-radius: 5px;
 }
 .round-img {
   text-align: center;
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
 }
 .round-img img {
   width: 150px;

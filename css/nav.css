@@ -61,8 +61,8 @@ body {
     transition: 0.5sec;
 }
 .nav div.main_list ul li a:hover {
-    color: #080808;
-    border-bottom: 1px solid  #111211;
+    color: rgb(183, 179, 178);
+    border-bottom: 1px solid  rgb(183, 179, 178);
 }
 /* Home section */
 
